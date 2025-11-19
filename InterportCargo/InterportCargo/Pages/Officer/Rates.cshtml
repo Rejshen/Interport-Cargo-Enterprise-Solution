@@ -1,0 +1,28 @@
+﻿@page
+@model InterportCargo.Pages.Officer.RatesModel
+@{
+	ViewData["Title"] = "Rate Schedule";
+}
+
+<h2>Rate Schedule</h2>
+<p class="text-muted">GST: 10% (calculated at time of quotation)</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th class="text-end">20ft</th>
+            <th class="text-end">40ft</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model.Items)
+        {
+            <tr>
+                <td>@r.FeeType</td>
+                <td class="text-end">$@r.TwentyFt</td>
+                <td class="text-end">$@r.FortyFt</td>
+            </tr>
+        }
+    </tbody>
+</table>

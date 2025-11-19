@@ -1,0 +1,44 @@
+﻿@page
+@model InterportCargo.Pages.Customers.MessagesModel
+@{
+	ViewData["Title"] = "My Messages";
+}
+
+<h3>Messages from Quotation Officers</h3>
+
+@if (!Model.Messages.Any())
+{
+    <p>No new messages.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Message</th>
+                <th>Status</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var m in Model.Messages)
+            {
+                <tr class="@(m.IsRead ? "" : "table-warning")">
+                    <td>@m.CreatedAt.ToString("yyyy-MM-dd HH:mm")</td>
+                    <td>@m.MessageText</td>
+                    <td>@(m.IsRead ? "Read" : "Unread")</td>
+                    <td>
+                        @if (!m.IsRead)
+                        {
+                            <form method="post" class="d-inline">
+                                <input type="hidden" name="id" value="@m.Id" />
+                                <button class="btn btn-sm btn-success" asp-page-handler="MarkRead">Mark as Read</button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

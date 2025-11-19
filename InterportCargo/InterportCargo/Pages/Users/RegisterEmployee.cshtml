@@ -1,0 +1,61 @@
+﻿@page
+@model InterportCargo.Pages.Users.RegisterEmployeeModel
+@{
+	ViewData["Title"] = "Register Employee";
+}
+@using InterportCargo.Models
+
+<h2>Register Account (Employee)</h2>
+
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Employee.FirstName" class="form-label"></label>
+        <input asp-for="Employee.FirstName" class="form-control" />
+        <span asp-validation-for="Employee.FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Employee.FamilyName" class="form-label"></label>
+        <input asp-for="Employee.FamilyName" class="form-control" />
+        <span asp-validation-for="Employee.FamilyName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Employee.Email" class="form-label"></label>
+        <input asp-for="Employee.Email" class="form-control" />
+        <span asp-validation-for="Employee.Email" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Employee.PhoneNumber" class="form-label"></label>
+        <input asp-for="Employee.PhoneNumber" class="form-control" />
+        <span asp-validation-for="Employee.PhoneNumber" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Employee.Address" class="form-label"></label>
+        <input asp-for="Employee.Address" class="form-control" />
+        <span asp-validation-for="Employee.Address" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Employee.EmployeeType" class="form-label">Employee Type</label>
+        <select asp-for="Employee.EmployeeType"
+                asp-items="Html.GetEnumSelectList<EmployeeType>()"
+                class="form-select"></select>
+        <span asp-validation-for="Employee.EmployeeType" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Employee.Password" class="form-label"></label>
+        <input asp-for="Employee.Password" class="form-control" type="password" />
+        <span asp-validation-for="Employee.Password" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

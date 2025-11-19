@@ -1,0 +1,55 @@
+﻿@page
+@model InterportCargo.Pages.Officer.Notifications.IndexModel
+@{
+	ViewData["Title"] = "Notifications";
+}
+
+
+<h2>Customer Responses</h2>
+
+<form method="post" class="mb-3">
+    <button class="btn btn-sm btn-outline-secondary" asp-page-handler="MarkAllRead">Mark all as read</button>
+</form>
+
+@if (!Model.Items.Any())
+{
+    <p>No notifications.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>When</th>
+                <th>Quotation</th>
+                <th>Customer</th>
+                <th>Action</th>
+                <th>Note</th>
+                <th>Status</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var n in Model.Items)
+            {
+                <tr class="@(n.IsRead ? "" : "table-warning")">
+                    <td>@n.CreatedAt.ToString("yyyy-MM-dd HH:mm")</td>
+                    <td>#@n.QuotationId</td>
+                    <td>@n.CustomerEmail</td>
+                    <td>@n.Action</td>
+                    <td>@n.Note</td>
+                    <td>@(n.IsRead ? "Read" : "Unread")</td>
+                    <td>
+                        @if (!n.IsRead)
+                        {
+                            <form method="post" class="d-inline">
+                                <input type="hidden" name="id" value="@n.Id" />
+                                <button class="btn btn-sm btn-success" asp-page-handler="MarkRead">Mark read</button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

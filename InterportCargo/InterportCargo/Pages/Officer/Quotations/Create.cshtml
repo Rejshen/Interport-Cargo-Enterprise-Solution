@@ -1,0 +1,90 @@
+﻿@page
+@model InterportCargo.Pages.Officer.Quotations.CreateModel
+@{
+	ViewData["Title"] = "Prepare Quotation";
+}
+
+<h2>Prepare Quotation</h2>
+
+@if (TempData["Error"] is string err)
+{
+    <div class="alert alert-danger">@err</div>
+}
+@if (TempData["Success"] is string ok)
+{
+    <div class="alert alert-success">@ok</div>
+}
+
+@if (Model.RequestRow == null)
+{
+    <p class="text-danger">Request not found or not accepted.</p>
+}
+else
+{
+    <div class="mb-4">
+        <h5>Request #@Model.RequestRow.RequestId</h5>
+        <div><strong>Customer:</strong> @Model.RequestRow.CustomerEmail</div>
+        <div><strong>Route:</strong> @Model.RequestRow.Source → @Model.RequestRow.Destination</div>
+        <div><strong>Containers:</strong> @Model.RequestRow.ContainerCount</div>
+        <div><strong>Status:</strong> @Model.RequestRow.Status</div>
+    </div>
+
+    <form method="post" class="col-12 col-md-6" novalidate>
+        <input type="hidden" asp-for="Input.RequestId" />
+
+        <div class="mb-3">
+            <label class="form-label">Container Size</label>
+            <select asp-for="Input.ContainerSize" class="form-select">
+                <option value="20ft">20ft</option>
+                <option value="40ft">40ft</option>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Scope (Job Description)</label>
+            <textarea asp-for="Input.Scope" class="form-control" rows="3"></textarea>
+            <span asp-validation-for="Input.Scope" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Calculate & Save (Draft)</button>
+    </form>
+
+    @if (Model.Preview != null)
+    {
+        <hr />
+        <h5>Calculated Totals</h5>
+        <p><strong>Subtotal:</strong> $@Model.Preview.Subtotal</p>
+        <p><strong>GST (10%):</strong> $@Model.Preview.Gst</p>
+        <p><strong>Total:</strong> $@Model.Preview.Total</p>
+        <div class="text-muted">* Based on Rate Schedule × container count.</div>
+    }
+
+
+    @if (Model.DiscountMessage != null && ViewData["QuotationId"] != null && ViewData["DiscountPercent"] != null)
+    {
+        <hr />
+        <div class="alert alert-info d-flex align-items-center justify-content-between">
+            <div> @Model.DiscountMessage</div>
+            <div>
+                <form method="post" class="d-inline">
+                    <input type="hidden" name="quotationId" value="@ViewData["QuotationId"]" />
+                    <input type="hidden" name="percent" value="@ViewData["DiscountPercent"]" />
+                    <button type="submit" formaction="?handler=ApplyDiscount" class="btn btn-sm btn-success">
+                        Apply
+                    </button>
+                </form>
+                <form method="post" class="d-inline ms-1">
+                    <input type="hidden" name="quotationId" value="@ViewData["QuotationId"]" />
+                    <button type="submit" formaction="?handler=DeclineDiscount" class="btn btn-sm btn-outline-secondary">
+                        Decline
+                    </button>
+                </form>
+            </div>
+        </div>
+    }
+
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

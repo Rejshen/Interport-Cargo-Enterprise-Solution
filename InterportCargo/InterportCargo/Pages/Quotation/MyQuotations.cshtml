@@ -1,0 +1,46 @@
+﻿@page
+@model InterportCargo.Pages.Quotation.MyQuotationsModel
+@{
+    ViewData["Title"] = "My Quotations";
+}
+
+<h3>My Quotations</h3>
+
+@if (Model.Items == null || Model.Items.Count == 0)
+{
+    <p>No quotations available.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Date</th>
+                <th>Status</th>
+                <th>Customer Response</th>
+                <th class="text-end">Total</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var q in Model.Items)
+            {
+                <tr>
+                    <td>@q.QuotationId</td>
+                    <td>@q.CreatedAt.ToString("yyyy-MM-dd")</td>
+                    <td>@q.Status</td>
+                    <td>@q.CustomerResponse</td>
+                    <td class="text-end">$@q.Total</td>
+                    <td>
+                        <a class="btn btn-sm btn-primary"
+                           asp-page="/Quotation/Details"
+                           asp-route-id="@q.QuotationId">
+                            View
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

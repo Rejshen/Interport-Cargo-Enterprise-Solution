@@ -1,0 +1,56 @@
+﻿@page
+@model InterportCargo.Pages.Officer.RequestsModel
+@{
+	ViewData["Title"] = "Quotation Requests";
+}
+
+<h2>Quotation Requests</h2>
+
+@if (TempData["Msg"] is string msg)
+{
+    <div class="alert alert-success">@msg</div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Request ID</th>
+            <th>Customer Email</th>
+            <th>Status</th>
+            <th>Source</th>
+            <th>Destination</th>
+            <th>Containers</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model.Requests)
+        {
+            <tr>
+                <td>@r.RequestId</td>
+                <td>@r.CustomerEmail</td>
+                <td>@r.Status</td>
+                <td>@r.Source</td>
+                <td>@r.Destination</td>
+                <td>@r.ContainerCount</td>
+                <td>
+                    <form method="post" class="d-inline">
+                        <input type="hidden" name="id" value="@r.RequestId" />
+                        <button class="btn btn-sm btn-success" formaction="?handler=Accept">Accept</button>
+                    </form>
+                    <form method="post" class="d-inline">
+                        <input type="hidden" name="id" value="@r.RequestId" />
+                        <button class="btn btn-sm btn-outline-danger" formaction="?handler=Reject">Reject</button>
+                    </form>
+                    @if (r.Status == "Accepted")
+                    {
+                        <a class="btn btn-sm btn-primary ms-1"
+                           asp-page="/Officer/Quotations/Create" asp-route-requestId="@r.RequestId">
+                            Prepare Quotation
+                        </a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

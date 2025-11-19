@@ -1,0 +1,762 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\customers\\messages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\customers\\messages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\customers\\messages.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\customers\\messages.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\officer\\requests.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\officer\\requests.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\officer\\requests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\officer\\requests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\officer\\notifications\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\officer\\notifications\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\models\\quotationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\models\\quotationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\migrations\\20251021103015_addcustomermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\migrations\\20251021103015_addcustomermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\data\\interportcargodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\data\\interportcargodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\models\\customermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\models\\customermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\officer\\notifications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\officer\\notifications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\models\\rateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\models\\rateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\quotation\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\quotation\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\models\\officernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\models\\officernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\quotation\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\quotation\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\quotation\\myquotations.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\quotation\\myquotations.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\quotation\\myquotations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\quotation\\myquotations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\officer\\quotations\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\officer\\quotations\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\quotation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\quotation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\migrations\\20251015044503_addcustomerresponsetoquotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\migrations\\20251015044503_addcustomerresponsetoquotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\models\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\models\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\officer\\quotations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\officer\\quotations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\officer\\rates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\officer\\rates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\officer\\rates.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\officer\\rates.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\migrations\\20251013135236_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\migrations\\20251013135236_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\quotation\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\quotation\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\users\\registercustomer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\users\\registercustomer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\users\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\users\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\users\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\users\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\users\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\users\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\users\\registercustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\users\\registercustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\users\\registeremployee.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\users\\registeremployee.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\pages\\users\\registeremployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\pages\\users\\registeremployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\LoginPage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterportCargo\\Pages\\Users\\LoginPage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\LoginPage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterportCargo\\Pages\\Users\\LoginPage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterportCargo\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\20251004112146_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterportCargo\\Migrations\\20251004112146_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\migrations\\20251015035448_addcustomernametorequestsandquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\migrations\\20251015035448_addcustomernametorequestsandquotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|d:\\qut\\iab251\\interportcargo\\interportcargo\\interportcargo\\migrations\\20251015111629_addofficernotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCCF79B-0166-42BC-8C5D-D3FCB27E8A30}|InterportCargo\\InterportCargo.csproj|solutionrelative:interportcargo\\migrations\\20251015111629_addofficernotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Messages.cshtml.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Customers\\Messages.cshtml.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Customers\\Messages.cshtml.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Customers\\Messages.cshtml.cs",
+              "RelativeToolTip": "InterportCargo\\Pages\\Customers\\Messages.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:47:33.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Messages.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Customers\\Messages.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Customers\\Messages.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Customers\\Messages.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Customers\\Messages.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T10:46:58.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Requests.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Requests.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Officer\\Requests.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Requests.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Officer\\Requests.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-11T03:48:04.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Notifications\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Officer\\Notifications\\Index.cshtml.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Notifications\\Index.cshtml.cs",
+              "RelativeToolTip": "InterportCargo\\Pages\\Officer\\Notifications\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:27:40.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T07:49:52.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Requests.cshtml.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Requests.cshtml.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Officer\\Requests.cshtml.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Requests.cshtml.cs",
+              "RelativeToolTip": "InterportCargo\\Pages\\Officer\\Requests.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T03:50:29.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251021103015_AddCustomerMessages.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\20251021103015_AddCustomerMessages.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Migrations\\20251021103015_AddCustomerMessages.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\20251021103015_AddCustomerMessages.cs",
+              "RelativeToolTip": "InterportCargo\\Migrations\\20251021103015_AddCustomerMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:30:20.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerMessage.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\CustomerMessage.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Models\\CustomerMessage.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\CustomerMessage.cs",
+              "RelativeToolTip": "InterportCargo\\Models\\CustomerMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:18:24.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuotationRequest.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\QuotationRequest.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Models\\QuotationRequest.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\QuotationRequest.cs",
+              "RelativeToolTip": "InterportCargo\\Models\\QuotationRequest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T10:04:56.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Quotation\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Quotation\\Details.cshtml.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Quotation\\Details.cshtml.cs",
+              "RelativeToolTip": "InterportCargo\\Pages\\Quotation\\Details.cshtml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:17:37.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20251015111629_AddOfficerNotifications.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\20251015111629_AddOfficerNotifications.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Migrations\\20251015111629_AddOfficerNotifications.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\20251015111629_AddOfficerNotifications.cs",
+              "RelativeToolTip": "InterportCargo\\Migrations\\20251015111629_AddOfficerNotifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:16:30.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Notifications\\Index.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Officer\\Notifications\\Index.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Notifications\\Index.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Officer\\Notifications\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T11:26:35.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InterportCargoDBContext.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Data\\InterportCargoDBContext.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Data\\InterportCargoDBContext.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Data\\InterportCargoDBContext.cs",
+              "RelativeToolTip": "InterportCargo\\Data\\InterportCargoDBContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:17:01.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OfficerNotification.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\OfficerNotification.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Models\\OfficerNotification.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\OfficerNotification.cs",
+              "RelativeToolTip": "InterportCargo\\Models\\OfficerNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:11:51.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Quotation\\Details.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Quotation\\Details.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Quotation\\Details.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Quotation\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T05:09:53.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Quotation\\Create.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Quotation\\Create.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Quotation\\Create.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Quotation\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T10:15:09.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RateItem.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\RateItem.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Models\\RateItem.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\RateItem.cs",
+              "RelativeToolTip": "InterportCargo\\Models\\RateItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T08:00:01.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251015044503_AddCustomerResponseToQuotation.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\20251015044503_AddCustomerResponseToQuotation.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Migrations\\20251015044503_AddCustomerResponseToQuotation.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\20251015044503_AddCustomerResponseToQuotation.cs",
+              "RelativeToolTip": "InterportCargo\\Migrations\\20251015044503_AddCustomerResponseToQuotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:45:10.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyQuotations.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Quotation\\MyQuotations.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Quotation\\MyQuotations.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Quotation\\MyQuotations.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Quotation\\MyQuotations.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T04:50:19.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyQuotations.cshtml.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Quotation\\MyQuotations.cshtml.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Quotation\\MyQuotations.cshtml.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Quotation\\MyQuotations.cshtml.cs",
+              "RelativeToolTip": "InterportCargo\\Pages\\Quotation\\MyQuotations.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:53:05.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Quotations\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Officer\\Quotations\\Create.cshtml.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Quotations\\Create.cshtml.cs",
+              "RelativeToolTip": "InterportCargo\\Pages\\Officer\\Quotations\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T09:44:47.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20251015035448_AddCustomerNameToRequestsAndQuotes.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\20251015035448_AddCustomerNameToRequestsAndQuotes.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Migrations\\20251015035448_AddCustomerNameToRequestsAndQuotes.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\20251015035448_AddCustomerNameToRequestsAndQuotes.cs",
+              "RelativeToolTip": "InterportCargo\\Migrations\\20251015035448_AddCustomerNameToRequestsAndQuotes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:54:53.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Quotation.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\Quotation.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Models\\Quotation.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\Quotation.cs",
+              "RelativeToolTip": "InterportCargo\\Models\\Quotation.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:58:48.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Quotations\\Create.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Officer\\Quotations\\Create.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Quotations\\Create.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Officer\\Quotations\\Create.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T09:44:05.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Rates.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Rates.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Officer\\Rates.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Rates.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Officer\\Rates.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-11T08:23:35.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Rates.cshtml.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Rates.cshtml.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Officer\\Rates.cshtml.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Officer\\Rates.cshtml.cs",
+              "RelativeToolTip": "InterportCargo\\Pages\\Officer\\Rates.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T02:06:39.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20251013135236_InitialCreate.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\20251013135236_InitialCreate.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Migrations\\20251013135236_InitialCreate.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\20251013135236_InitialCreate.cs",
+              "RelativeToolTip": "InterportCargo\\Migrations\\20251013135236_InitialCreate.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T13:52:37.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Models\\Customer.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\Customer.cs",
+              "RelativeToolTip": "InterportCargo\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:02:54.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Models\\Employee.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Models\\Employee.cs",
+              "RelativeToolTip": "InterportCargo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:03:17.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Quotation\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Quotation\\Create.cshtml.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Quotation\\Create.cshtml.cs",
+              "RelativeToolTip": "InterportCargo\\Pages\\Quotation\\Create.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T10:15:57.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterCustomer.cshtml.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\RegisterCustomer.cshtml.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Users\\RegisterCustomer.cshtml.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\RegisterCustomer.cshtml.cs",
+              "RelativeToolTip": "InterportCargo\\Pages\\Users\\RegisterCustomer.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:13:52.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Users\\Login.cshtml.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\Login.cshtml.cs",
+              "RelativeToolTip": "InterportCargo\\Pages\\Users\\Login.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:31:30.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Program.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Program.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Program.cs",
+              "RelativeToolTip": "InterportCargo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:53:17.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Users\\Login.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\Login.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Users\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T05:29:14.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\Logout.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Users\\Logout.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\Logout.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Users\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T05:41:40.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Users\\Logout.cshtml.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\Logout.cshtml.cs",
+              "RelativeToolTip": "InterportCargo\\Pages\\Users\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:42:31.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterCustomer.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\RegisterCustomer.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Users\\RegisterCustomer.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\RegisterCustomer.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Users\\RegisterCustomer.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T08:08:46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterEmployee.cshtml.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\RegisterEmployee.cshtml.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Users\\RegisterEmployee.cshtml.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\RegisterEmployee.cshtml.cs",
+              "RelativeToolTip": "InterportCargo\\Pages\\Users\\RegisterEmployee.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T04:40:33.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\appsettings.json",
+              "RelativeDocumentMoniker": "InterportCargo\\appsettings.json",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\appsettings.json",
+              "RelativeToolTip": "InterportCargo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T04:24:31.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterEmployee.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\RegisterEmployee.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Users\\RegisterEmployee.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\RegisterEmployee.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Users\\RegisterEmployee.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAIBZwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T04:38:09.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "InterportCargo\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "InterportCargo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T03:53:17.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginPage.cshtml",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\LoginPage.cshtml",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Users\\LoginPage.cshtml",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\LoginPage.cshtml",
+              "RelativeToolTip": "InterportCargo\\Pages\\Users\\LoginPage.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T09:22:30.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginPage.cshtml.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\LoginPage.cshtml.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Pages\\Users\\LoginPage.cshtml.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Pages\\Users\\LoginPage.cshtml.cs",
+              "RelativeToolTip": "InterportCargo\\Pages\\Users\\LoginPage.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T09:36:29.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "InterportCargo\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:31:34.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20251004112146_InitialCreate.cs",
+              "DocumentMoniker": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\20251004112146_InitialCreate.cs",
+              "RelativeDocumentMoniker": "InterportCargo\\Migrations\\20251004112146_InitialCreate.cs",
+              "ToolTip": "D:\\QUT\\IAB251\\InterportCargo\\InterportCargo\\InterportCargo\\Migrations\\20251004112146_InitialCreate.cs",
+              "RelativeToolTip": "InterportCargo\\Migrations\\20251004112146_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:22:12.476Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

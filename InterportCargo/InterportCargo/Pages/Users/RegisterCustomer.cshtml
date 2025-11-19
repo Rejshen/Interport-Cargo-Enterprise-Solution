@@ -1,0 +1,57 @@
+﻿@page
+@model InterportCargo.Pages.Users.RegisterCustomerModel
+@{
+	ViewData["Title"] = "Register Customer";
+}
+
+<h2>Register Account (Customer)</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Customer.FirstName" class="form-label"></label>
+        <input asp-for="Customer.FirstName" class="form-control" />
+        <span asp-validation-for="Customer.FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Customer.FamilyName" class="form-label"></label>
+        <input asp-for="Customer.FamilyName" class="form-control" />
+        <span asp-validation-for="Customer.FamilyName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Customer.Email" class="form-label"></label>
+        <input asp-for="Customer.Email" class="form-control" />
+        <span asp-validation-for="Customer.Email" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Customer.PhoneNumber" class="form-label"></label>
+        <input asp-for="Customer.PhoneNumber" class="form-control" />
+        <span asp-validation-for="Customer.PhoneNumber" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Customer.CompanyName" class="form-label">Company Name (optional)</label>
+        <input asp-for="Customer.CompanyName" class="form-control" />
+        <span asp-validation-for="Customer.CompanyName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Customer.Address" class="form-label"></label>
+        <input asp-for="Customer.Address" class="form-control" />
+        <span asp-validation-for="Customer.Address" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Customer.Password" class="form-label"></label>
+        <input asp-for="Customer.Password" class="form-control" type="password" />
+        <span asp-validation-for="Customer.Password" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

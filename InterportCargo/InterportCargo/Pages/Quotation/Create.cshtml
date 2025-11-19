@@ -1,0 +1,69 @@
+﻿@page
+@model InterportCargo.Pages.Quotation.CreateModel
+@{
+	ViewData["Title"] = "Request a Quotation";
+}
+
+<h2>Request a Quotation</h2>
+
+<form method="post" class="col-12 col-md-6" novalidate>
+    <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+    <div class="mb-3">
+        <label class="form-label">Customer Email</label>
+        <input asp-for="Request.CustomerEmail" class="form-control" type="email" />
+        <span asp-validation-for="Request.CustomerEmail" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Customer Name</label>
+        <input asp-for="Request.CustomerName" class="form-control" />
+        <span asp-validation-for="Request.CustomerName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Source (country of origin) </label>
+        <input asp-for="Request.Source" class="form-control" />
+        <span asp-validation-for="Request.Source" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Destination</label>
+        <input asp-for="Request.Destination" class="form-control" />
+        <span asp-validation-for="Request.Destination" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Number of Containers</label>
+        <input asp-for="Request.ContainerCount" type="number" class="form-control" />
+        <span asp-validation-for="Request.ContainerCount" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Nature of Package (goods type, width, height)</label>
+        <input asp-for="Request.PackageNature" class="form-control" />
+        <span asp-validation-for="Request.PackageNature" class="text-danger"></span>
+    </div>
+
+    <div class="form-check mb-1">
+        <input asp-for="Request.IsImport" class="form-check-input" type="checkbox" />
+        <label class="form-check-label">Import Job</label>
+    </div>
+    <div class="form-check mb-1">
+        <input asp-for="Request.IsPack" class="form-check-input" type="checkbox" />
+        <label class="form-check-label">Packing Job</label>
+    </div>
+    <div class="form-check mb-1">
+        <input asp-for="Request.RequiresQuarantine" class="form-check-input" type="checkbox" />
+        <label class="form-check-label">Requires Quarantine</label>
+    </div>
+    <div class="form-check mb-3">
+        <input asp-for="Request.RequiresFumigation" class="form-check-input" type="checkbox" />
+        <label class="form-check-label">Requires Fumigation</label>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit Request</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

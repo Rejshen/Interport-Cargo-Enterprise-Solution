@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InterportCargo
+build_property.RootNamespace = InterportCargo
+build_property.ProjectDir = D:\QUT\IAB251\InterportCargo\InterportCargo\InterportCargo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\QUT\IAB251\InterportCargo\InterportCargo\InterportCargo
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Customers/Messages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXE1lc3NhZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Officer/Notifications/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2ZmaWNlclxOb3RpZmljYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Officer/Quotations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2ZmaWNlclxRdW90YXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Officer/Rates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2ZmaWNlclxSYXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Officer/Requests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2ZmaWNlclxSZXF1ZXN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Quotation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVvdGF0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Quotation/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVvdGF0aW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Quotation/MyQuotations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVvdGF0aW9uXE15UXVvdGF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Users/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Users/RegisterCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcUmVnaXN0ZXJDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Users/RegisterEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcUmVnaXN0ZXJFbXBsb3llZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QUT/IAB251/InterportCargo/InterportCargo/InterportCargo/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bksdc2hyhm
